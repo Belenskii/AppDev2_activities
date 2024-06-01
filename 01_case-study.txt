@@ -1,0 +1,9 @@
+Reflecting on your experience, what lessons have you learned, and what actionable steps can you take to prevent similar issues in the future?
+
+I've learned from my experience that changes may occur to the things that can be upgrade. These changes can be benefits if we adapt on it 
+and can be an issue because of the sudden changes that may not comprehend easily.
+
+The steps that I can take to prevent the similar issues that is shown to the case study 1 is to anticipate change, proactive communications,
+and continous improvement. These actions can improve the adaptability when sudden changes occur for these actions may take you to provide 
+plan and strategies to stay ahead of changes and reduce surprises and by addressing these aspects, your team can mitigate the risks associated 
+with third-party dependencies and ensure that your software remains resilient and adaptable to future changes.
